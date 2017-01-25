@@ -1,0 +1,19 @@
+HOW TO RUN PROGRAM?
+
+Language: Java 1.8
+----------------------------------------------------------
+Enter following commands on command prompt one by one.
+
+
+>javac MyDatabase.java
+
+>java MyDatabase
+
+
+
+Note:
+As index files & data.db files are already present in the folder there is no need
+to parse input file.
+
+In case it is necessary to parse input file, please delete data.tb and other 11 index files,
+and then parse input file. For that make sure that PHARMA_TRIALS_1000B.csv is there in the folder.
